@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
 	name: "tca-swiftui-navigation",
 	platforms: [
-		.iOS(.v14),
+		.iOS(.v13),
 	],
 	products: [
 		.library(
